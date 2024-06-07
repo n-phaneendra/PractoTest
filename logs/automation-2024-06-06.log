@@ -1,0 +1,62 @@
+00:48:42.467 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+00:51:16.578 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+00:51:22.177 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+00:51:24.260 [main] INFO  testCases.TC_01 - checking the selected specialist
+00:51:24.475 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+01:04:57.367 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+01:05:03.222 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+01:05:05.295 [main] INFO  testCases.TC_01 - checking the selected specialist
+01:05:05.472 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+01:08:37.248 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+01:08:43.114 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+01:08:45.185 [main] INFO  testCases.TC_01 - checking the selected specialist
+01:08:45.357 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+01:22:00.147 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+01:22:07.507 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+01:22:09.774 [main] INFO  testCases.TC_01 - checking the selected specialist
+01:22:10.141 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+09:38:09.261 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+09:38:16.029 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+09:38:18.131 [main] INFO  testCases.TC_01 - checking the selected specialist
+09:38:18.446 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+09:38:58.624 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+09:39:40.609 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+09:39:47.704 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+09:39:49.834 [main] INFO  testCases.TC_01 - checking the selected specialist
+09:39:50.256 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+09:40:31.585 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+09:40:51.056 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+09:40:51.062 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+09:41:07.655 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+09:41:09.797 [main] INFO  testCases.TC_03 - ****submit button disabled****
+09:41:28.587 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+09:41:30.898 [main] INFO  testCases.TC_04 - ****submit button enabled****
+09:41:45.026 [main] INFO  testCases.TC_04 - thank you msg displayed
+12:22:58.729 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+12:23:34.796 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+12:23:36.854 [main] INFO  testCases.TC_01 - checking the selected specialist
+12:23:37.029 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+12:26:32.807 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+12:27:19.387 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+12:27:19.390 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+12:28:29.247 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+12:28:30.082 [main] INFO  testCases.TC_03 - ****submit button disabled****
+12:29:39.713 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+12:29:40.372 [main] INFO  testCases.TC_04 - ****submit button enabled****
+12:30:06.482 [main] INFO  testCases.TC_04 - thank you msg displayed
+12:31:06.478 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+12:31:42.315 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+12:31:44.377 [main] INFO  testCases.TC_01 - checking the selected specialist
+12:31:44.529 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+12:34:11.371 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+12:34:59.418 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+12:34:59.420 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+12:36:10.369 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+12:36:10.887 [main] INFO  testCases.TC_03 - ****submit button disabled****
+12:37:21.852 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+12:37:22.486 [main] INFO  testCases.TC_04 - ****submit button enabled****
+16:20:36.422 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+16:21:12.574 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+16:21:14.670 [main] INFO  testCases.TC_01 - checking the selected specialist
+16:21:14.893 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+16:23:16.064 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
